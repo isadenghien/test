@@ -1,2 +1,3 @@
 add line on branch
 line 1
+line for the second commit
